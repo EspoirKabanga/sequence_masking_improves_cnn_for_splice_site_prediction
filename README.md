@@ -10,6 +10,6 @@ https://zenodo.org/records/14001778
 
 ## Requirements
 
->= Python 3.6
->= Tensorflow 2.10.1
->= numpy 1.24.3
+\>= Python 3.6
+\>= Tensorflow 2.10.1
+\>= numpy 1.24.3
